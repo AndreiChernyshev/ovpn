@@ -1,0 +1,5 @@
+client_base_conf = c:\java2019\ovpn\base.ovpn  #базовая конфигурация ovpn
+ca_file = c:\java2019\ovpn\ca.crt # сертификат сервера
+tls_aut_key  = c:\java2019\ovpn\ta.key #tls ключ
+client_crt = c:\java2019\ovpn\pog2.crt # сертификат клиента
+client_key = c:\java2019\ovpn\pog2.key #ключ клиента
