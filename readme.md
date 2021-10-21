@@ -1,3 +1,3 @@
 * .ovpn file creating
 
-* Create your .ovpn file from keys and certificates
+* Create yours .ovpn file from keys and certificates
